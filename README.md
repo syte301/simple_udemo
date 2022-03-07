@@ -1,5 +1,7 @@
 # README
 
+Educational platform based on Ruby on Rails and YouTube API.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
@@ -22,4 +24,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-Educational platform based on Ruby on Rails and YouTube API.
